@@ -1,2 +1,1 @@
-# whalesayer
-An example webserver
+## Argocd Example repo
